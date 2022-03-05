@@ -1,0 +1,46 @@
+body { 
+    color: aliceblue;
+}
+
+.navbar{
+    border-bottom: snow 2px solid;
+    opacity: .8;
+}
+
+.Inicio-section{
+    background: url('img/4.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 150vh;
+    color: rgb(0, 0, 0);
+}
+
+.dark-overlay{
+    background-color: rgba(0, 0, 0, .6);
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 100%;
+    color: antiquewhite;
+}
+
+.home-inner{
+    padding: 100px;
+}
+
+.botonPedido{
+    font-family: "Chilanka";
+    background-color: #c6ffc6;
+}
+
+.Ingredientes{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background: url("./img/Logo.png") no-repeat;
+    background-size:contain;
+    background-position: left;
+  
+}
+
